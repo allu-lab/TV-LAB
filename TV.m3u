@@ -74,7 +74,7 @@ https://example.com/live/channel23.m3u8
 https://example.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-id="channel25" tvg-logo="https://i.ibb.co/LdKZ5jmQ/Discovery-Channel.png" group-title="Entertainment",Discovery Channel
-https://example.com/live/channel25.m3u8
+http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="channel26" tvg-logo="https://i.ibb.co/tp4tNWCL/National-Geographic.png" group-title="Entertainment",National Geographic
 https://example.com/live/channel26.m3u8
