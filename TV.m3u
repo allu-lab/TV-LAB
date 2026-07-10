@@ -5,16 +5,16 @@
 https://example.com/live/channel04.m3u8
 
 #EXTINF:-1 tvg-id="channel02" tvg-logo="https://i.ibb.co/9mFZxRFL/ATN-News-HD.jpg" group-title="News",ATN News
-http://10.99.99.99:8082/ATN.NEWS.HD/tracks-v1a1/mono.m3u8?token=c5a6bb4921814241ff520f0ec800096686e9c93e-1358389230667ff9e92c33b71ad93ad3-1783705726-1783694926
+http://10.99.99.99:8082/ATN.NEWS.HD/tracks-v1a1/mono.m3u8?token=1726d3c5fe7d994702b3ec29f546b612bc09032a-6896469d41eca7a30d74da0bcefe278e-1783706520-1783695720
 
 #EXTINF:-1 tvg-id="channel03" tvg-logo="https://i.ibb.co/XrtqfsyG/Channel-24-HD.png" group-title="News",Channel 24
-http://10.99.99.99:8082/CHANNEL.24.HD/tracks-v1a1/mono.m3u8?token=241f68e3892497cc8b9ba9350f639d0c6edeeaf4-dc2e17e69a3d4c0e9b192abe3131e3bc-1783705788-1783694988
+http://10.99.99.99:8082/CHANNEL.24.HD/tracks-a1/mono.m3u8?token=2b117850c5287f7e530bc6547fa8f6a532d0c56b-1938b86f3d2add0d098ade9f68b2f5d4-1783706556-1783695756
 
 #EXTINF:-1 tvg-id="channel04" tvg-logo="https://i.ibb.co/WNPJMQY7/Ekattor-HD.png" group-title="News",Ekattor TV
 https://example.com/live/channel04.m3u8
 
 #EXTINF:-1 tvg-id="channel05" tvg-logo="https://i.ibb.co/qYZMxwDy/Jamuna-TV-HD.png" group-title="News",Jamuna TV
-http://10.99.99.99:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=04af6b5b2873d1bbd70f8cec7985960130910610-c6241c88de3e16ec46eddb1b800c65df-1783705827-1783695027
+http://10.99.99.99:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=828388b1781b4539ffd308e60ee35d86af29db38-60f09d76a6d816e2f24fc1d55af478fb-1783706584-1783695784
 
 #EXTINF:-1 tvg-id="channel06" tvg-logo="https://i.ibb.co/s9t4Y4zL/Somoy-TV-HD.jpg" group-title="News",Somoy TV
 https://example.com/live/channel06.m3u8
@@ -23,7 +23,7 @@ https://example.com/live/channel06.m3u8
 https://example.com/live/channel07.m3u8
 
 #EXTINF:-1 tvg-id="channel08" tvg-logo="https://i.ibb.co/GfdDpdph/Independent-TV-HD.jpg" group-title="News",Independent Television
-http://10.99.99.99:8082/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=c69e66ad0561adcd9a5923a2a1bf857d2db526e0-766fe1684359074f8a85cb2f5e51d016-1783705852-1783695052
+http://10.99.99.99:8082/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=ab38c78ed610e797e74f04c3901f99bf14039d3a-82af034ff90a1c4bd5f44ddb16db8203-1783706618-1783695818
 
 #EXTINF:-1 tvg-id="channel09" tvg-logo="https://i.ibb.co/4nVKVGMw/News-24-HD.jpg" group-title="News",News24
 https://example.com/live/channel09.m3u8
@@ -38,7 +38,7 @@ https://example.com/live/channel11.m3u8
 https://example.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-id="channel13" tvg-logo="https://i.ibb.co/WvffjTVW/ATN-Bangla-HD.png" group-title="Entertainment",ATN Bangla
-http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=100e9e33eb0a3f22b916b4a24b000c2f60812455-639612a4b969e0384f896fd4c05af084-1783705886-1783695086
+http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=3388dff516ec3fe21774e7a44fd05d33c4fff4b3-b460ba1111ebabc4689dd2b7bfcbb2b5-1783706649-1783695849
 
 #EXTINF:-1 tvg-id="channel14" tvg-logo="https://i.ibb.co/TMZ8HTyt/Rtv-HD.png" group-title="Entertainment",RTV
 https://example.com/live/channel14.m3u8
@@ -56,28 +56,28 @@ https://example.com/live/channel17.m3u8
 https://example.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-id="channel19" tvg-logo="https://i.ibb.co/VyvR003/Zee-Bangla-HD.png" group-title="Entertainment",Zee Bangla
-http://10.99.99.99:8082/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=f0454ea29b1fdf1f43a907081a79565734c01590-b80b691f9e2364af6e5877f0d5ac5ded-1783705913-1783695113
+http://10.99.99.99:8082/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=5d692d2dbd1f380cac75bceb3cd8e88a62aee04c-c01d6327d8f3cfe9a8c298acb8dd16ae-1783706682-1783695882
 
 #EXTINF:-1 tvg-id="channel20" tvg-logo="https://i.ibb.co/h1JpTBt0/Star-Jalsha-HD.png" group-title="Entertainment",Star Jalsha
-http://10.99.99.99:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=d4ef383cdff013a285c2762e9ff4cc73681d3b51-7c506626134a1f54c2ef823614f998e6-1783705942-1783695142
+http://10.99.99.99:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=f86a178de28c5b159758d2fc1be02b09436d0405-1d3745f915d65f0b8b0e858198128930-1783706753-1783695953
 
 #EXTINF:-1 tvg-id="channel21" tvg-logo="https://i.ibb.co/xt5s3Gmd/Colors-Bangla-HD.jpg" group-title="Entertainment",Colors Bangla
-http://10.99.99.99:8082/COLORS.BANGLA.HD/tracks-v1a1/mono.m3u8?token=c24bf7d6cac135def02f9f1f35fed2a7ca545bae-21ab4f92769a4a111321b422e8295691-1783705967-1783695167
+http://10.99.99.99:8082/COLORS.BANGLA.HD/tracks-v1a1/mono.m3u8?token=335dd3f5526996696bb655e9c579dbb9bfbb06c0-5e9a3a9ab3f94f4397fca64b7ecba522-1783707078-1783696278
 
 #EXTINF:-1 tvg-id="channel22" tvg-logo="https://i.ibb.co/TBLkHghq/Sun-Bangla-HD.png" group-title="Entertainment",Sun Bangla
-http://10.99.99.99:8082/SUN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=36cbe004a60bde52daa893a700793ee7f72e5c8c-9a6135f2c7bb93a41bc5e0e682194766-1783705999-1783695199
+http://10.99.99.99:8082/SUN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=a5c52050fe5415739549f1a19913b66c3c601d13-df58029c4b37d6b7b540733077c657fc-1783707104-1783696304
 
 #EXTINF:-1 tvg-id="channel23" tvg-logo="https://i.ibb.co/pvT1B6mQ/Sony-Aath.jpg" group-title="Entertainment",Sony Aath
-http://10.99.99.99:8082/SONY.AAT/tracks-v1a1/mono.m3u8?token=2d5a25858c722b308630ef1fea8c20c2b5c5640f-43f23392c3e5c055528f6219a8ebb86c-1783706024-1783695224
+http://10.99.99.99:8082/SONY.AAT/tracks-v1a1/mono.m3u8?token=44dc1626bca766e17bbe53f98b316322095d8690-f27df3b1028e3354fda169a62549e67c-1783707143-1783696343
 
 #EXTINF:-1 tvg-id="channel24" tvg-logo="https://i.ibb.co/7JqQV9zy/Enterr10-Bangla.jpg" group-title="Entertainment",Enterr10 Bangla
-http://10.99.99.99:8082/ENTER10.BANGLA/tracks-v1a1/mono.m3u8?token=3239ebae26eb3ac31c26cbc8a60a8f5353310272-f2830d5b41acd2a17e0179c88685e77a-1783706073-1783695273
+http://10.99.99.99:8082/ENTER10.BANGLA/tracks-v1a1/mono.m3u8?token=a4a2688b59e3151c7522b7630d9b9458846923c4-fb67105ab6c7285939cd3507db081de9-1783707167-1783696367
 
 #EXTINF:-1 tvg-id="channel25" tvg-logo="https://i.ibb.co/LdKZ5jmQ/Discovery-Channel.png" group-title="Entertainment",Discovery Channel
 https://example.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-id="channel26" tvg-logo="https://i.ibb.co/tp4tNWCL/National-Geographic.png" group-title="Entertainment",National Geographic
-http://10.99.99.99:8082/NATGEO.HD/tracks-v1a1/mono.m3u8?token=6a1a6629289b3dc892e12dccbd676600b7a159b6-b40b91a6e3b799151aa0cac0d346a4b0-1783706151-1783695351
+http://10.99.99.99:8082/NATGEO.HD/tracks-v1a1/mono.m3u8?token=739cfd9731e55b25bdc2c688a5d10c7a3fd1ff86-9a9a8877e0f86bc17480f9cd1c9b66c9-1783707197-1783696397
 
 #EXTINF:-1 tvg-id="channel27" tvg-logo="https://i.ibb.co/M5jZc10v/T-Sports-HD.png" group-title="Sports",T Sports
 https://example.com/live/channel27.m3u8
@@ -92,10 +92,10 @@ https://example.com/live/channel29.m3u8
 https://example.com/live/channel30.m3u8
 
 #EXTINF:-1 tvg-id="channel31" tvg-logo="https://i.ibb.co/JWBX2HXt/Jalsha-Movies-HD.jpg" group-title="Movies",Jalsha Movies
-http://10.99.99.99:8082/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8?token=ae3a1ab6a6f1df9a8b355f73efd029d12cff6a55-eb04a3214e8dafb26212eb61a7659f70-1783706230-1783695430
+http://10.99.99.99:8082/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8?token=9959f6d0cf2afde26aa61a5a0ab49f7e2fa3526f-55a8ce814e5d00e0d47acdfad1cd974a-1783707228-1783696428
 
 #EXTINF:-1 tvg-id="channel32" tvg-logo="https://i.ibb.co/HLs7GMKZ/Colors-Bangla-Cinema.png" group-title="Movies",Colors Bangla Cinema
-http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=7e02276725393e391538f30d246f87395a4d72b5-0a1268565e62fa4fc4ffd5e62405430e-1783706265-1783695465
+http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=2b2c610e278d0547fea13c41bb699ba7cbd32f43-bb7dde31b37108d66ff487875c13dfea-1783707256-1783696456
 
 #EXTINF:-1 tvg-id="channel33" tvg-logo="https://i.ibb.co/qYL2KPdT/STAR-Movies.png" group-title="Movies",Star Movies
 https://example.com/live/channel33.m3u8
