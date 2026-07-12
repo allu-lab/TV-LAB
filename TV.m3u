@@ -24,6 +24,7 @@ https://example.com/live/channel07.m3u8
 
 #EXTINF:-1 tvg-id="channel08" tvg-logo="https://i.ibb.co/GfdDpdph/Independent-TV-HD.jpg" group-title="News",Independent Television
 http://10.99.99.99:8082/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=7fd8ff2cc33cbbcdffcf18dfd3bb134b37621b89-dc3d5cc6371ea7b53ee0d8b53ff6b580-1783875574-1783864774
+
 #EXTINF:-1 tvg-id="channel09" tvg-logo="https://i.ibb.co/4nVKVGMw/News-24-HD.jpg" group-title="News",News24
 https://example.com/live/channel09.m3u8
 
