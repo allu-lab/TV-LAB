@@ -2,40 +2,40 @@
 
 
 #EXTINF:-1 tvg-id="channel01" tvg-logo="https://i.ibb.co/BKQDN41x/B-TV-HD.png" group-title="News",BTV News
-https://example.com/live/channel01.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel02" tvg-logo="https://i.ibb.co/9mFZxRFL/ATN-News-HD.jpg" group-title="News",ATN News
-https://example.com/live/channel02.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel03" tvg-logo="https://i.ibb.co/XrtqfsyG/Channel-24-HD.png" group-title="News",Channel 24
-https://example.com/live/channel03.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel04" tvg-logo="https://i.ibb.co/WNPJMQY7/Ekattor-HD.png" group-title="News",Ekattor TV
-https://example.com/live/channel04.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel05" tvg-logo="https://i.ibb.co/qYZMxwDy/Jamuna-TV-HD.png" group-title="News",Jamuna TV
-http://10.99.99.99:8082/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=9d66ecc1d814f34f3f47869d0c31f6ffe49c0c09-46b02ac68bde793350dbf4a34f203b44-1784739441-1784728641
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel06" tvg-logo="https://i.ibb.co/s9t4Y4zL/Somoy-TV-HD.jpg" group-title="News",Somoy TV
 https://example.com/live/channel06.m3u8
 
 #EXTINF:-1 tvg-id="channel07" tvg-logo="https://i.ibb.co/kg9b4g2f/DBC-News-HD.jpg" group-title="News",DBC News
-https://example.com/live/channel07.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel08" tvg-logo="https://i.ibb.co/GfdDpdph/Independent-TV-HD.jpg" group-title="News",Independent Television
-http://10.99.99.99:8082/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?token=94213e8a52a4713d6795384929616f5f29ccb9fb-f28b1a9aa8a2da293a676eb925c93392-1784739491-1784728691
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel09" tvg-logo="https://i.ibb.co/4nVKVGMw/News-24-HD.jpg" group-title="News",News24
-https://example.com/live/channel09.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel10" tvg-logo="https://i.ibb.co/GvTTqr36/Ekushey-Tv-HD.jpg" group-title="News",Ekushey Television (ETV)
 https://example.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-id="channel11" tvg-logo="https://i.ibb.co/60PNLgTR/Channel-I-HD.jpg" group-title="News",Channel i
-https://example.com/live/channel11.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel12" tvg-logo="https://i.ibb.co/3mtZBCG0/NTV-HD.png" group-title="News",NTV
-https://example.com/live/channel12.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel13" tvg-logo="https://i.ibb.co/WvffjTVW/ATN-Bangla-HD.png" group-title="Entertainment",ATN Bangla
 http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=491ddfc60df99659ad37142ccee6f752c6b59c96-f1fb849f9070307d1589e797cb00e8c5-1784395448-1784384648
@@ -44,16 +44,16 @@ http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=491ddfc60df996
 https://example.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-id="channel15" tvg-logo="https://i.ibb.co/CK6Nxrnm/Bangla-Vision-HD.png" group-title="Entertainment",Banglavision
-https://example.com/live/channel15.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel16" tvg-logo="https://i.ibb.co/mV0PB6k0/Boishakhi-Tv-HD.jpg" group-title="Entertainment",Boishakhi TV
 https://example.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="channel17" tvg-logo="https://i.ibb.co/276cHmXt/Masranga-HD.jpg" group-title="Entertainment",Maasranga TV
-http://10.99.99.99:8082/MASRANGA.TV.HD/tracks-v1a1/mono.m3u8?token=4e481f4adbe2a0c8b3d035336cf4483b5705cdcd-10ca4f1efce6989740720fa4cae28bd0-1784739520-1784728720
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel18" tvg-logo="https://i.ibb.co/QqfsD7D/Deepto-TV-HD.png" group-title="Entertainment",Deepto TV
-http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=915cea48de89479b34c0f6965d72ee822555487c-61e0fe212b0a719a9f353996160a98da-1784739544-1784728744
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel19" tvg-logo="https://i.ibb.co/VyvR003/Zee-Bangla-HD.png" group-title="Entertainment",Zee Bangla
 http://10.99.99.99:8082/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=22a22957ed13ebc520c4058649e5feac7d1addb7-a6f1e31a17a5e67658987f9b11b18b07-1784739572-1784728772
