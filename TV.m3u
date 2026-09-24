@@ -14,7 +14,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel05" tvg-logo="https://i.ibb.co/qYZMxwDy/Jamuna-TV-HD.png" group-title="News",Jamuna TV
-http://10.30.30.30:8088/JAMUNA.TV/index.m3u8?token=4b557df30ac52465af6f776428d65090299e3f88-7ba0a070d6faff8caf91cd15df23824f-1790180343-1790169543&remote=no_check_ip
+http://10.30.30.30:8088/JAMUNA.TV/index.m3u8?token=cbfaa1a75084f296599525b3e8972ed4f7f26802-5b17d44b03e0ac193e3bcd3b40a8b389-1790266758-1790255958&remote=no_check_ip=no_check_ip
 
 #EXTINF:-1 tvg-id="channel06" tvg-logo="https://i.ibb.co/s9t4Y4zL/Somoy-TV-HD.jpg" group-title="News",Somoy TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6fQ9rYOZHlp_qa_3KxN_5M/m3u8
@@ -23,7 +23,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6fQ9rYOZHlp_qa_3KxN_5M/m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channel08" tvg-logo="https://i.ibb.co/GfdDpdph/Independent-TV-HD.jpg" group-title="News",Independent Television
-http://10.30.30.30:8088/DBC.NEWS/index.m3u8?token=4ce120eaf6a7596c72d34834c6b996e07f20ea34-b500bc32d6fba93adc1ce5cd86ea31ed-1790180501-1790169701&remote=no_check_ip
+http://10.30.30.30:8088/INDEPENDENT.TV/tracks-v1a1/mono.m3u8?token=dbc86f5dc592ef36295a2462e1f19f7de6891e9e-f66e296459e195ce5527bccf3fde7853-1790266790-1790255990
 
 #EXTINF:-1 tvg-id="channel09" tvg-logo="https://i.ibb.co/4nVKVGMw/News-24-HD.jpg" group-title="News",News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
@@ -50,25 +50,25 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://example.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-id="channel17" tvg-logo="https://i.ibb.co/276cHmXt/Masranga-HD.jpg" group-title="Entertainment",Maasranga TV
-http://10.30.30.30:8088/MASRANGA.TV.HD/index.m3u8?token=c60d265cd3f18a240ec33eb1eb21d1be14035e34-3828e1c94a77b22b3e7460911c5289fe-1790180538-1790169738&remote=no_check_ip
+http://10.30.30.30:8088/MASRANGA.TV.HD/index.m3u8?token=90d598afe9bc0462cdc57178a3a49df948cc98cc-cdbc500e6868431bfb8a08045d731674-1790266834-1790256034&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel18" tvg-logo="https://i.ibb.co/QqfsD7D/Deepto-TV-HD.png" group-title="Entertainment",Deepto TV
-http://10.30.30.30:8088/DEEPTO.TV/index.m3u8?token=dfb025b6e8b42424d33925b9c99ce40d5aa33c7f-ab228deae9aa79b411519554599d5ae7-1790180563-1790169763&remote=no_check_ip
+http://10.30.30.30:8088/DEEPTO.TV/index.m3u8?token=e452436fab2baa7fda21486d6e95df561026a414-87b1e82d49faee6e2a09e4eea29bdb97-1790266891-1790256091&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel19" tvg-logo="https://i.ibb.co/VyvR003/Zee-Bangla-HD.png" group-title="Entertainment",Zee Bangla
-http://10.30.30.30:8088/ZEE.BANGLA.HD/index.m3u8?token=3ac52c688364bb47801d3bc92fec0d2656dda58c-2ea4170af5f3b8d0fed8f0fba1fab33b-1790180585-1790169785&remote=no_check_ip
+http://10.30.30.30:8088/ZEE.BANGLA.HD/index.m3u8?token=52663f5eb62e5402790e1bec4e91e855530da854-021229c48036f217c4cd481ebd0a29ad-1790266917-1790256117&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel20" tvg-logo="https://i.ibb.co/h1JpTBt0/Star-Jalsha-HD.png" group-title="Entertainment",Star Jalsha
-http://10.30.30.30:8088/STAR.JALSHA.HD/index.m3u8?token=1db1e94b7a782c3c3156ca6d4c9b03e775827c91-e824f91b462407efc56d863a3969382d-1790180608-1790169808&remote=no_check_ip
+http://10.30.30.30:8088/STAR.JALSHA.HD/index.m3u8?token=b98e6a3c34fa6ae801cfe23253a2811b770ff9d8-79e1d8ca83b82b1e122b3c5f2b257700-1790266938-1790256138&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel21" tvg-logo="https://i.ibb.co/xt5s3Gmd/Colors-Bangla-HD.jpg" group-title="Entertainment",Colors Bangla
-http://10.30.30.30:8088/COLORS.BANGLA.HD/index.m3u8?token=0fcf8ba0e514114b4f993422342a8341880c3243-37297cc1d2b3677b509a6a13529a77ce-1790180630-1790169830&remote=no_check_ip
+http://10.30.30.30:8088/COLORS.BANGLA.HD/index.m3u8?token=d8cef2fdd9348d36175126b02ce0a6e3dbc3e524-0f26b0c8800788a573103170a3298797-1790266979-1790256179&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel22" tvg-logo="https://i.ibb.co/TBLkHghq/Sun-Bangla-HD.png" group-title="Entertainment",Sun Bangla
-http://10.30.30.30:8088/SUN.BANGLA.HD/index.m3u8?token=980dde8348cff607db78537ab62e1601ac1c579e-26d3a13f2d98ff2fe40e4579c7bf31ec-1790180650-1790169850&remote=no_check_ip
+http://10.30.30.30:8088/SUN.BANGLA.HD/index.m3u8?token=444f6fd05b9eebeb1f3d344e765047b37c296a14-01bdebe338aaf947ed05f99686689c9d-1790267012-1790256212&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel23" tvg-logo="https://i.ibb.co/pvT1B6mQ/Sony-Aath.jpg" group-title="Entertainment",Sony Aath
-http://10.30.30.30:8088/SONY.AAT/index.m3u8?token=d6ba6d6aa5708a19a859a852bdc56528fd17c26c-e766c621c9af8b786e674d47ffa89e17-1790180680-1790169880&remote=no_check_ip
+http://10.30.30.30:8088/SONY.AAT/index.m3u8?token=4c370bb1142063877a8a3a1d8795106f3948d59e-d19c96a08ba53347a93667ef3d59ccbd-1790267051-1790256251&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel24" tvg-logo="https://i.ibb.co/7JqQV9zy/Enterr10-Bangla.jpg" group-title="Entertainment",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -92,7 +92,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA5QntX5KOHGwWaMn94p5Qmc/m3u8
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwhbGXKAQFXL5kzbaWAVNCA/m3u8
 
 #EXTINF:-1 tvg-id="channel31" tvg-logo="https://i.ibb.co/JWBX2HXt/Jalsha-Movies-HD.jpg" group-title="Movies",Jalsha Movies
-http://10.30.30.30:8088/JALSHA.MOVIES.HD/index.m3u8?token=5621e31b78316ad2729ea3fcf7e31e55c0cea001-b9543c824ed64ce2e1ebcb3178b34c00-1790180698-1790169898&remote=no_check_ip
+http://10.30.30.30:8088/JALSHA.MOVIES.HD/index.m3u8?token=5af1ad58b26c1cd0ffc003eafc6d6d9179a817d7-5760b2f3fd0958be77bf1fffb1e0c72a-1790267081-1790256281&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel32" tvg-logo="https://i.ibb.co/HLs7GMKZ/Colors-Bangla-Cinema.png" group-title="Movies",Colors Bangla Cinema
 http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=a1524deae29744ecea893f42f43b0d8c608bb59c-fd43de9c92ad31103946fe0acaaa5461-1784396032-1784385232
