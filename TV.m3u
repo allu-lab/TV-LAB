@@ -53,7 +53,7 @@ https://example.com/live/channel16.m3u8
 http://10.30.30.30:8088/MASRANGA.TV.HD/index.m3u8?token=80fd4aead9d4f21e34cf937ecb9cf18f30e9fcc7-e316178540a86bd8f5e5e320780a6bfa-1795619311-1795608511&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel18" tvg-logo="https://i.ibb.co/QqfsD7D/Deepto-TV-HD.png" group-title="Entertainment",Deepto TV
-http://10.30.30.30:8088/DEEPTO.TV/index.m3u8?token=4454609c42d623a431f263329f1d5a91d3e00d5f-26524a8c1da555e831436522f351c498-1795619336-1795608536&remote=no_check_ip
+http://10.30.30.30:8088/DEEPTO.TV/index.m3u8?token=a1cdb10c31014c300362aec99dd8be5247fd0f03-10cbddc95c25c3650f9d838a47668ada-1795619721-1795608921&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel19" tvg-logo="https://i.ibb.co/VyvR003/Zee-Bangla-HD.png" group-title="Entertainment",Zee Bangla
 http://10.30.30.30:8088/ZEE.BANGLA.HD/index.m3u8?token=dd5255362e3b969f9816c2ae3f4c4e286588951a-9f8cda89007687cf02512f778b972a80-1795619377-1795608577&remote=no_check_ip
@@ -65,7 +65,7 @@ http://10.30.30.30:8088/STAR.JALSHA.HD/index.m3u8?token=63a82aa3c50a987fb965a050
 http://10.30.30.30:8088/COLORS.BANGLA.HD/index.m3u8?token=325be3183434aed09157a4a07a37bf0ffd3882c5-532940dd81a2d1582819f71b4bd15078-1795619421-1795608621&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel22" tvg-logo="https://i.ibb.co/TBLkHghq/Sun-Bangla-HD.png" group-title="Entertainment",Sun Bangla
-http://10.30.30.30:8088/SUN.BANGLA.HD/index.m3u8?token=ff8536b99697ac5d9024af9a7eae1ea0acc34534-a3dc435c1475043e9e9ebfa59bcb0f38-1795619479-1795608679&remote=no_check_ip
+http://10.30.30.30:8088/SUN.BANGLA.HD/index.m3u8?token=189cda88434d1939844e25223f21ca9329b40e26-83d1e9e49615665bfc0e9b1523939011-1795619763-1795608963&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="channel23" tvg-logo="https://i.ibb.co/pvT1B6mQ/Sony-Aath.jpg" group-title="Entertainment",Sony Aath
 http://10.30.30.30:8088/SONY.AAT/index.m3u8?token=fa6c7f351c632c657bdae54198fe4297e26dda31-ce6f12ae5d0687f98a582e41dfed6806-1795619503-1795608703&remote=no_check_ip
